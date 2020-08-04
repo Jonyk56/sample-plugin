@@ -1,8 +1,8 @@
 {
-	"name": "SamplePlugin",
-	"id": "sample-plugin",
+	"name": "GravitonAutoSave",
+	"id": "GAS",
 	"version": "1.0.0",
-	"description": "A Graviton plugin.",
+	"description": "AUTO SAAAAAAAAVE!",
 	"mainSrc": "src/index.js",
 	"mainDev": "dist/index.js",
 	"main": "index.js",
@@ -10,7 +10,7 @@
 		"watch": "gvsdk --entry package.json --target plugin --mode dev",
 		"build": "gvsdk --entry package.json --target plugin --mode release"
 	},
-	"author": "A cool guy",
+	"author": "Jonyk56",
 	"devDependencies": {
 		"@gveditor/sdk": "^0.1.3"
 	},
